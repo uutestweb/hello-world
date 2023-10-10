@@ -7,4 +7,4 @@ I use this repo to test:
 - workflows
 - users and collaboration
 
-please beware: this report could contain unmeaninful and weird things
+please beware: this repository could contain weird things
